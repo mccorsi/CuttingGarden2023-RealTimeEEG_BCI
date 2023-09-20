@@ -1,8 +1,8 @@
 # Geometric deep learning meets BCI to advance inter-session and -subject transfer
 
 
-## Speaker:
-- [Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ&hl=de): Postdoctoral researcher, RIKEN Center for Advanced Intelligence Project (RIKEN AIP) and Advanced Telecommunications Research Institute International (ATR), Kyoto, Japan
+## Speaker
+[Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ&hl=de): Postdoctoral researcher, RIKEN Center for Advanced Intelligence Project (RIKEN AIP) and Advanced Telecommunications Research Institute International (ATR), Kyoto, Japan
 
 
 ## Abstract
