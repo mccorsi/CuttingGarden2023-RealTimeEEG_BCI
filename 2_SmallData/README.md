@@ -1,12 +1,4 @@
-# Challenges and Opportunities in Real Time EEG processing and classification tools for Brain-Computer Interfaces
-Materials associated to the CuttingGarden session dedicated to BCI
-
-
-
-[Cutting Gardens](https://cuttinggardens2023.org/)- EEG and MEG methods multi-hub meeting - 16-19 October 2023
-
-
-Session 2 - Tuesday, October 17th, 2:30-5:30PM (Lyon Time, GMT+1)
+# Facing the small data reality in event-related potential BCI protocols
 
 ## Speaker
 [Michael Tangermann](https://neurotechlab.socsci.ru.nl/author/michael-tangermann/): Associate Professor, Dept. Artificial Intelligence, Donders Institute, Radboud University, Nijmegen, The Netherlands
