@@ -22,7 +22,7 @@ This workshop intended to gather all the persons interested in Brain-Computer In
 
 ## Timetable
 
-### Welcome & opening remarks by M.-C. Corsi (5')
+### Welcome & opening remarks (5')
 
 ### Part 1, Presentations
 *Geometric deep learning meets BCI to advance inter-session and -subject transfer*, by Reinmar Kobler (40' talk + 5' Q&A)
@@ -36,7 +36,7 @@ This workshop intended to gather all the persons interested in Brain-Computer In
 Informal discussion preceeded by a short presentation of the main methodological bottlenecks in BCI.
 
 
-### Conclusion and closing remarks by M.-C. Corsi (5') 
+### Conclusion and closing remarks (5') 
 
 
 ## Resources
