@@ -3,7 +3,7 @@ Materials associated to the CuttingGarden session dedicated to BCI
 
 
 
-[Cutting Gardens]([https://bcisociety.org/bci-meeting/](https://cuttinggardens2023.org/) - EEG and MEG methods multi-hub meeting - 16-19 October 2023
+[Cutting Gardens](https://bcisociety.org/bci-meeting/](https://cuttinggardens2023.org/) - EEG and MEG methods multi-hub meeting - 16-19 October 2023
 
 
 Session 2 - Tuesday, October 17th, 2:30-5:30PM (Lyon Time, GMT+1)
