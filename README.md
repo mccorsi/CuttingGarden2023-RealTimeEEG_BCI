@@ -22,17 +22,17 @@ This workshop intended to gather all the persons interested in Brain-Computer In
 
 ## Timetable
 
-### Welcome & opening remarks (5')
+### Welcome & opening remarks (10')
 
 ### Part 1, Presentations
-*Geometric deep learning meets BCI to advance inter-session and -subject transfer*, by Reinmar Kobler (40' talk + 5' Q&A)
+*Geometric deep learning meets BCI to advance inter-session and -subject transfer*, by Reinmar Kobler (20' talk + 10' brainstorming + 15' Q&A)
 
-*Facing the small data reality in event-related potential BCI protocols*, by Michael Tangermann (40' talk + 5' Q&A)
+*Facing the small data reality in event-related potential BCI protocols*, by Michael Tangermann (20' talk + 10' brainstorming + 15' Q&A)
 
-*Conducting BCI protocols with patients*, by Theresa Vaughan (40' talk + 5' Q&A)
+*Conducting BCI protocols with patients*, by Theresa Vaughan (20' talk + 10' brainstorming + 15' Q&A)
 
 
-### Part 2, Discussion, chaired by M.-C. Corsi with all the speakers (30')
+### Part 2, Discussion, chaired by M.-C. Corsi with all the speakers (10' brainstorming + 20' Q&A)
 Informal discussion preceeded by a short presentation of the main methodological bottlenecks in BCI.
 
 
