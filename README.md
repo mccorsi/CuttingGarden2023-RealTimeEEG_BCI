@@ -6,7 +6,7 @@ Materials associated to the CuttingGarden session dedicated to BCI
 [Cutting Gardens](https://cuttinggardens2023.org/)- EEG and MEG methods multi-hub meeting - 16-19 October 2023
 
 
-Session 2 - Tuesday, October 17th, 2:30-5:30PM (Lyon Time, GMT+1)
+Session 2 - Tuesday, October 17th, 2:20-5:30PM (Lyon Time, GMT+1)
 
 ## Speakers and Chair:
 - [Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ&hl=de): Postdoctoral researcher, RIKEN Center for Advanced Intelligence Project (RIKEN AIP) and Advanced Telecommunications Research Institute International (ATR), Kyoto, Japan
