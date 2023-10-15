@@ -18,6 +18,8 @@ Session 2 - Tuesday, October 17th, 2:20-5:30PM (Lyon Time, GMT+1)
 ## Intended audience
 This workshop intended to gather all the persons interested in Brain-Computer Interfaces (BCI) and Neurofeedback (NFB) - including clinicians, researchers from different fields and industrials. We aim at establishing a lively dialogue between them.
 
+Questions raised by the audience in Lyon will be accessible [here](https://docs.google.com/document/d/1lOk--qSWQyoAsZIlnjctWN4uYWjx-FIawGNO20PovpQ/edit?usp=sharing)
+
 
 
 ## Timetable
@@ -34,6 +36,7 @@ This workshop intended to gather all the persons interested in Brain-Computer In
 
 ### Part 2, Discussion, chaired by M.-C. Corsi with all the speakers (10' brainstorming + 20' Q&A)
 Informal discussion preceeded by a short presentation of the main methodological bottlenecks in BCI.
+
 The minutes of the discussion will be available [here](https://docs.google.com/document/d/1lOk--qSWQyoAsZIlnjctWN4uYWjx-FIawGNO20PovpQ/edit?usp=sharing)
 
 
