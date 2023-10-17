@@ -9,7 +9,7 @@ Materials associated to the CuttingGarden session dedicated to BCI
 Session 2 - Tuesday, October 17th, 2:20-5:30PM (Lyon Time, GMT+1)
 
 ## Speakers and Chair:
-- [Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ&hl=de): Postdoctoral researcher, RIKEN Center for Advanced Intelligence Project (RIKEN AIP) and Advanced Telecommunications Research Institute International (ATR), Kyoto, Japan
+- [Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ&hl=de): Research Scientist, Advanced Telecommunications Research Institute International (ATR) and RIKEN Center for Advanced Intelligence Project (RIKEN AIP), Kyoto, Japan
 - [Michael Tangermann](https://neurotechlab.socsci.ru.nl/author/michael-tangermann/): Associate Professor, Dept. Artificial Intelligence, Donders Institute, Radboud University, Nijmegen, The Netherlands
 - [Theresa Vaughan](https://www.neurotechcenter.org/people/btrc-faculty/theresa-vaughan-ba): Research Scientist, National Center for Adaptive Neurotechnologies, Stratton VA Medical Center, Albany NY, United States
 - [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Research Scientist, Inria Paris, Aramis project-team, Paris Brain Institute, France
