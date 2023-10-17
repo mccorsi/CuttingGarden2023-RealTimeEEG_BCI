@@ -2,7 +2,7 @@
 
 
 ## Speaker
-[Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ):  Research Scientist, Advanced Telecommunications Research Institute International (ATR) and RIKEN Center for Advanced Intelligence Project (RIKEN AIP), Kyoto, Japan
+[Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ):  Research Scientist, ATR [Brain Information Communication Research Lab Group](https://bicr.atr.jp/), and [RIKEN Center for Advanced Intelligence Project (AIP)](https://www.riken.jp/en/research/labs/aip), Kyoto, Japan
 
 
 ## Abstract
