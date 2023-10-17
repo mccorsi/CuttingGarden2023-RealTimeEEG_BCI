@@ -20,7 +20,7 @@ Current brain-computer interfaces (BCIs) do not generalize well across domains (
 
 ## Additional related literature
 ### Geometric Deep Learning
-- Wilson, Daniel, Robin Tibor Schirrmeister, Lukas Alexander Wilhelm Gemein, and Tonio Ball. 2022. “Deep Riemannian Networks for EEG Decoding.” _arXiv_. http://arxiv.org/abs/2212.10426.
+- Wilson Daniel, Robin Tibor Schirrmeister, Lukas Alexander Wilhelm Gemein, and Tonio Ball. 2022. “Deep Riemannian Networks for EEG Decoding.” _arXiv_. http://arxiv.org/abs/2212.10426.
 ### Batch Norm on the SPD manifold
 - Kobler Reinmar J., Jun-ichiro Hirayama, and Motoaki Kawanabe. 2022. “Controlling The Fréchet Variance Improves Batch Normalization on the Symmetric Positive Definite Manifold.” In _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 3863–67. https://doi.org/10.1109/ICASSP43922.2022.9746629.
 ### Tangent Space Mapping (TSM)
@@ -29,7 +29,7 @@ Current brain-computer interfaces (BCIs) do not generalize well across domains (
 - Kobler Reinmar J., Jun-Ichiro Hirayama, Lea Hehenberger, Catarina Lopes-Dias, Gernot Müller-Putz, and Motoaki Kawanabe. 2021. “On the Interpretation of Linear Riemannian Tangent Space Model Parameters in M/EEG.” In _43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_. https://doi.org/10.1109/EMBC46164.2021.9630144.
 - Xu Jiachen, Moritz Grosse-Wentrup, and Vinay Jayaram. 2019. “Interpretable Riemannian Classification in Brain-Computer Interfacing.” In _8th Graz Brain Computer Interface Conference_. https://doi.org/10.3217/978-3-85125-682-6-07.
 ### Transfer learning
-- Li, Siyang, Ziwei Wang, Hanbin Luo, Lieyun Ding, and Dongrui Wu. 2023. “T-TIME: Test-Time Information Maximization Ensemble for Plug-and-Play BCIs.” _IEEE Transactions on Biomedical Engineering_, 1–11. https://doi.org/10.1109/TBME.2023.3303289.
+- Li Siyang, Ziwei Wang, Hanbin Luo, Lieyun Ding, and Dongrui Wu. 2023. “T-TIME: Test-Time Information Maximization Ensemble for Plug-and-Play BCIs.” _IEEE Transactions on Biomedical Engineering_, 1–11. https://doi.org/10.1109/TBME.2023.3303289.
 - Kobler Reinmar, Jun-ichiro Hirayama, Qibin Zhao, and Motoaki Kawanabe. 2022. “SPD Domain-Specific Batch Normalization to Crack Interpretable Unsupervised Domain Adaptation in EEG.” In _Advances in Neural Information Processing Systems_.
 - Zanini Paolo, Marco Congedo, Christian Jutten, Salem Said, and Yannick Berthoumieu. 2018. “Transfer Learning: A Riemannian Geometry Framework With Applications to Brain–Computer Interfaces.”_ IEEE Transactions on Biomedical Engineering_ 65 (5): 1107–16. https://doi.org/10.1109/TBME.2017.2742541.
 - Rodrigues Pedro Luiz Coelho, Christian Jutten, and Marco Congedo. 2019. “Riemannian Procrustes Analysis: Transfer Learning for Brain–Computer Interfaces.” _IEEE Transactions on Biomedical Engineering_ 66 (8): 2390–2401. https://doi.org/10.1109/TBME.2018.2889705.
