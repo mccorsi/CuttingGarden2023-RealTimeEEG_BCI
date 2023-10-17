@@ -2,13 +2,29 @@
 
 
 ## Speaker
-[Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ&hl=de): Postdoctoral researcher, RIKEN Center for Advanced Intelligence Project (RIKEN AIP) and Advanced Telecommunications Research Institute International (ATR), Kyoto, Japan
+[Reinmar Kobler](https://scholar.google.at/citations?user=hE8CJYIAAAAJ):  Research Scientist, Advanced Telecommunications Research Institute International (ATR) and RIKEN Center for Advanced Intelligence Project (RIKEN AIP), Kyoto, Japan
 
 
 ## Abstract
 Current brain-computer interfaces (BCIs) do not generalize well across domains (e.g., sessions and subjects) without expensive supervised re-calibration on small domain-specific data, which severely limits BCI utility and scalability. Fortunately, geometric deep learning offers a remedy via combining data-efficiency and invariances of Riemannian geometry aware methods with feature learning capabilities of neural nets. In this talk, I will present a geometric deep learning framework to perform unsupervised domain adaptation (UDA) on the symmetric, positive definite (SPD) manifold. The framework can be readily applied to multi-source/-target and online UDA scenarios. Using oscillatory EEG BCI datasets, we demonstrate that a simple, network architecture, which we denote TSMNet, can obtain state-of-the-art performance in inter-session and -subject transfer without compromising on neurophysiological interpretability.
 
 
-## Resources
+## Geometric Deep Learning Resources in the context of BCI
 
-## References
+- [Reference implementation](https://github.com/rkobler/TSMNet ) of TSMNet ([Kobler+2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/28ef7ee7cd3e03093acc39e1272411b7-Abstract-Conference.html),*NeurIPS*)
+- [Pull Request](https://github.com/braindecode/braindecode/pull/534) to include TSMNet in [braindecode](https://github.com/braindecode/braindecode)
+- [Reference implementation](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet) of Tensor-CSPNet ([Ju+2022](https://ieeexplore.ieee.org/document/9805775),*TNNLS*) and Graph-CSPNet ([Ju+2023](https://ieeexplore.ieee.org/document/10255369),*TNNLS*)
+- [Reference implementation](https://github.com/ku-milab/Deep-Efficient-Continuous-Manifold-Learning) of ([Jeong+203](https://ieeexplore.ieee.org/document/10266751/),*TPAMI*)
+- [Reference implementation](https://github.com/cecnl/matt) of MAtt ([Pan+2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c981fd12b1d5703f19bd8289da9fc996-Abstract-Conference.html),*NeurIPS*)
+- [Reference implementation](https://papers.nips.cc/paper_files/paper/2019/file/6e69ebbfad976d4637bb4b39de261bf7-Supplemental.zip) of Riemannian Batch normalization ([Brooks+2019](https://papers.nips.cc/paper_files/paper/2019/hash/6e69ebbfad976d4637bb4b39de261bf7-Abstract.html),*NeurIPS*)
+
+## Additional literature
+### Batch Norm on the SPD manifold
+- Kobler, Reinmar J., Jun-ichiro Hirayama, and Motoaki Kawanabe. 2022. “Controlling The Fréchet Variance Improves Batch Normalization on the Symmetric Positive Definite Manifold.” In _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 3863–67. https://doi.org/10.1109/ICASSP43922.2022.9746629.
+### Interpreting TSM models
+- Kobler, Reinmar J., Jun-Ichiro Hirayama, Lea Hehenberger, Catarina Lopes-Dias, Gernot Müller-Putz, and Motoaki Kawanabe. 2021. “On the Interpretation of Linear Riemannian Tangent Space Model Parameters in M/EEG.” In _43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_. https://doi.org/10.1109/EMBC46164.2021.9630144.
+- Xu, Jiachen, Moritz Grosse-Wentrup, and Vinay Jayaram. 2019. “Interpretable Riemannian Classification in Brain-Computer Interfacing.” In _8th Graz Brain Computer Interface Conference_. https://doi.org/10.3217/978-3-85125-682-6-07.
+
+
+
+
