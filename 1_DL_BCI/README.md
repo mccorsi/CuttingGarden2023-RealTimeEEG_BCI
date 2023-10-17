@@ -25,6 +25,8 @@ Current brain-computer interfaces (BCIs) do not generalize well across domains (
 - Kobler Reinmar J., Jun-ichiro Hirayama, and Motoaki Kawanabe. 2022. “Controlling The Fréchet Variance Improves Batch Normalization on the Symmetric Positive Definite Manifold.” In _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 3863–67. https://doi.org/10.1109/ICASSP43922.2022.9746629.
 ### Tangent Space Mapping (TSM)
 - Barachant Alexandre, Stéphane Bonnet, Marco Congedo, and Christian Jutten. 2012. “Multiclass Brain-Computer Interface Classification by Riemannian Geometry.” _IEEE Transactions on Bio-Medical Engineering _59 (4): 920–28. https://doi.org/10.1109/TBME.2011.2172210.
+- Sabbagh David, Pierre Ablin, Gaël Varoquaux, Alexandre Gramfort, and Denis A. Engemann. 2020. “Predictive Regression Modeling with MEG/EEG: From Source Power to Signals and Cognitive States.” _NeuroImage_ 222: 116893. https://doi.org/10.1016/j.neuroimage.2020.116893.
+
 ### Interpreting TSM models
 - Kobler Reinmar J., Jun-Ichiro Hirayama, Lea Hehenberger, Catarina Lopes-Dias, Gernot Müller-Putz, and Motoaki Kawanabe. 2021. “On the Interpretation of Linear Riemannian Tangent Space Model Parameters in M/EEG.” In _43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_. https://doi.org/10.1109/EMBC46164.2021.9630144.
 - Xu Jiachen, Moritz Grosse-Wentrup, and Vinay Jayaram. 2019. “Interpretable Riemannian Classification in Brain-Computer Interfacing.” In _8th Graz Brain Computer Interface Conference_. https://doi.org/10.3217/978-3-85125-682-6-07.
