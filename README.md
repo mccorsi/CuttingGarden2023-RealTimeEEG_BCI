@@ -36,12 +36,11 @@ This workshop intended to gather all the persons interested in Brain-Computer In
 Informal discussion preceeded by a short presentation of the main methodological bottlenecks in BCI.
 
 
-
 ### Conclusion and closing remarks (5') 
 
 
-
-An FAQ based on all the questions asked during the session is be available [here](https://docs.google.com/document/d/1lOk--qSWQyoAsZIlnjctWN4uYWjx-FIawGNO20PovpQ/edit?usp=sharing)
+## FAQ
+All the questions asked during the session are available [here](https://docs.google.com/document/d/1lOk--qSWQyoAsZIlnjctWN4uYWjx-FIawGNO20PovpQ/edit?usp=sharing)
 
 
 ## References & links to go further
